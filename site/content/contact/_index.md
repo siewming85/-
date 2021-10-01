@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "/img/Jiang%20Xia%20Logo.jpg"
 contact_entries:
   - heading: Location
     text: "3153 Lynn Avenue, South San Francisco, California 94080"

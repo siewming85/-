@@ -1,5 +1,5 @@
 ---
-title: "Great coffee with a conscience"
+title: "诗巫江夏黄氏公会"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
